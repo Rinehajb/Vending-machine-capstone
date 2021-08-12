@@ -1,0 +1,8 @@
+FEED MONEY 2021/06/06 21:24:06 | Change: 10 | Balance: 10
+FEED MONEY 2021/06/06 21:24:12 | Change: 12 | Balance: 2
+Purchase 2021/06/06 21:24:19 | Item: U-Chews | Slot: D1 | Price: 0.85 | Balance: 11.15
+Purchase 2021/06/06 21:24:22 | Item: U-Chews | Slot: D1 | Price: 0.85 | Balance: 10.30
+Purchase 2021/06/06 21:24:24 | Item: U-Chews | Slot: D1 | Price: 0.85 | Balance: 9.45
+Purchase 2021/06/06 21:24:26 | Item: U-Chews | Slot: D1 | Price: 0.85 | Balance: 8.60
+Purchase 2021/06/06 21:24:27 | Item: U-Chews | Slot: D1 | Price: 0.85 | Balance: 7.75
+GIVE CHANGE 2021/06/06 21:24:39 | Change: 7.75 | Balance: 0.00
